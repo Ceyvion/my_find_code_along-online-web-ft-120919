@@ -8,6 +8,6 @@ def my_find(collection)
     return collection[index]
     end 
   i += 1 
-end 
+  end 
 
 end
